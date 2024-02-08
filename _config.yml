@@ -1,0 +1,10 @@
+title: EvenTUM Documentation
+description: Documentation for the EvenTUM project
+remote_theme: pmarsceill/just-the-docs
+
+url: https://eventum-lssa.github.io/
+
+exclude:
+  - javadoc/auth-service/legal
+  - javadoc/event-service/legal
+  - javadoc/volunteer-service/legal
