@@ -1,0 +1,8 @@
+com.example.inventoryservice
+com.example.inventoryservice.config
+com.example.inventoryservice.controller
+com.example.inventoryservice.dto
+com.example.inventoryservice.exception
+com.example.inventoryservice.model
+com.example.inventoryservice.repository
+com.example.inventoryservice.service
