@@ -1,0 +1,8 @@
+dev.nhuels.volunteerservice
+dev.nhuels.volunteerservice.config
+dev.nhuels.volunteerservice.controller
+dev.nhuels.volunteerservice.dto
+dev.nhuels.volunteerservice.exception
+dev.nhuels.volunteerservice.model
+dev.nhuels.volunteerservice.repository
+dev.nhuels.volunteerservice.service
