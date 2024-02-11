@@ -1,8 +1,0 @@
-dev.nhuels.eventservice
-dev.nhuels.eventservice.config
-dev.nhuels.eventservice.controller
-dev.nhuels.eventservice.dto
-dev.nhuels.eventservice.exception
-dev.nhuels.eventservice.model
-dev.nhuels.eventservice.repository
-dev.nhuels.eventservice.service
