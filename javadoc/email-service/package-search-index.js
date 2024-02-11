@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.example.emailservice"},{"l":"com.example.emailservice.config"},{"l":"com.example.emailservice.controller"},{"l":"com.example.emailservice.dto"},{"l":"com.example.emailservice.exception"},{"l":"com.example.emailservice.service"},{"l":"com.example.emailservice.util"}];updateSearchResults();
