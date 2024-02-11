@@ -1,0 +1,8 @@
+com.example.ticketservice
+com.example.ticketservice.config
+com.example.ticketservice.controller
+com.example.ticketservice.dto
+com.example.ticketservice.exception
+com.example.ticketservice.model
+com.example.ticketservice.repository
+com.example.ticketservice.service
