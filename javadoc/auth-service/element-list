@@ -1,8 +1,0 @@
-dev.nhuels.authservice
-dev.nhuels.authservice.config
-dev.nhuels.authservice.controller
-dev.nhuels.authservice.exceptions
-dev.nhuels.authservice.model
-dev.nhuels.authservice.repository
-dev.nhuels.authservice.service
-dev.nhuels.authservice.util
