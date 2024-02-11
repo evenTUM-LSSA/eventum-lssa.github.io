@@ -8,3 +8,6 @@ exclude:
   - javadoc/auth-service/legal
   - javadoc/event-service/legal
   - javadoc/volunteer-service/legal
+  - javadoc/email-service/legal
+  - javadoc/inventory-service/legal
+  - javadoc/ticket-service/legal
