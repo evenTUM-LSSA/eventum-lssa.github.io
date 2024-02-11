@@ -13,4 +13,13 @@ nav_order: 5
 
 [Javadoc VolunteerService](javadoc/auth-service/index.html){:target="_blank"}
 
+
+[Javadoc EmailService](javadoc/email-service/index.html){:target="_blank"}
+
+
+[Javadoc InventoryService](javadoc/inventory-service/index.html){:target="_blank"}
+
+
+[Javadoc TicketService](javadoc/ticket-service/index.html){:target="_blank"}
+
 ---
