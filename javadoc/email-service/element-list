@@ -1,0 +1,7 @@
+com.example.emailservice
+com.example.emailservice.config
+com.example.emailservice.controller
+com.example.emailservice.dto
+com.example.emailservice.exception
+com.example.emailservice.service
+com.example.emailservice.util
