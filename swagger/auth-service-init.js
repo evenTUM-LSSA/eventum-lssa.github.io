@@ -3,7 +3,7 @@ window.onload = function () {
 
   // the following lines will be replaced by docker/configurator, when it runs in a docker-container
   window.ui = SwaggerUIBundle({
-    url: 'https://eventumbackend.azurewebsites.net/auth-service/v3/api-docs',
+    url: './docs/auth-service_api-docs.json',
     dom_id: '#swagger-ui',
     deepLinking: true,
     presets: [
