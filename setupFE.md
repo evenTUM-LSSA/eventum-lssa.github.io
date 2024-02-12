@@ -1,5 +1,5 @@
 ---
-title: Deployment
+title: Setup
 layout: default
 parent: Frontend
 nav_order: 1
